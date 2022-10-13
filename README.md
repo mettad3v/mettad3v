@@ -1,4 +1,4 @@
-### Hi I'm Emmanuel 👋
+### Hi I'm Emmanuel 👋, welcome to my Github
 # 💫 About Me:
 2+ years experience as a Fullstack developer working mostly with Laravel and Vue.js<br>I like to tinker but first I'm always eager to listen and learn 🤞 <br>I love clean code and learning about design patterns<br> To pass the time I play COD, read classic literature or re-watch interstellar for the nth time
 
