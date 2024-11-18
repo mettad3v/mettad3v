@@ -1,6 +1,6 @@
 ### Hi I'm Emmanuel 👋
 # 💫 About Me:
-Dynamic and solution-focused software engineer adept at working both independently and collaboratively with development teams to deliver quality, impactful solutions that meet and exceed expectations. 4+ years of proven industry experience. To pass the time I read classic literature or re-watch Interstellar for the nth time
+Dynamic and solution-focused software engineer adept at working both independently and collaboratively with development teams to deliver quality, impactful solutions that meet and exceed expectations. 4+ years of proven industry experience (SASS, FHIR, OMOP, Blockchain). To pass the time I read classic literature or re-watch Interstellar for the nth time
 
 
 ## 🌐 Socials:
